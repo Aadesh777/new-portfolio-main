@@ -1,0 +1,6 @@
+# ROBOTS.TXT — who.aadeshdahal.com.np
+
+User-agent: *
+Allow: /
+
+Sitemap: https://who.aadeshdahal.com.np/sitemap.xml
